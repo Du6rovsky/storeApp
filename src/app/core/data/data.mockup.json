@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "sad132r",
+      "name": "Apple",
+      "price": "2",
+      "description": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition."
+    },
+    {
+      "id": "52esdr",
+      "name": "Orange",
+      "price": "3",
+      "description": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis, which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations."
+    },
+    {
+      "id": "6587fgd",
+      "name": "Lemon",
+      "price": "1.5",
+      "description": "The lemon, Citrus limon, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily Northeast India.\n\nThe tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses. The pulp and rind are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie."
+    },
+    {
+      "id": "364rcv",
+      "name": "Banana",
+      "price": "4",
+      "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called \"plantains\", distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow in clusters hanging from the top of the plant."
+    },
+    {
+      "id": "57jfdb",
+      "name": "Cucumber",
+      "price": "6",
+      "description": "Cucumber (Cucumis sativus) is a widely-cultivated creeping vine plant in the Cucurbitaceae gourd family that bears cucumiform fruits, which are used as vegetables. There are three main varieties of cucumber—slicing, pickling, and burpless/seedless—within which several cultivars have been created. The cucumber originates from South Asia, but now grows on most continents, as many different types of cucumber are traded on the global market."
+    },
+    {
+      "id": "12qesdv",
+      "name": "Potato",
+      "price": "1",
+      "description": "The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum, and the plant itself is a perennial in the nightshade family, Solanaceae."
+    },
+    {
+      "id": "7ijynb",
+      "name": "Tomato",
+      "price": "8",
+      "description": "The tomato is the edible berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America. The Nahuatl (the language used by the Aztecs) word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived. Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico"
+    },
+    {
+      "id": "b34gdc",
+      "name": "Cherry",
+      "price": "12",
+      "description": "A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).\n\nCommercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus. The name 'cherry' also refers to the cherry tree and its wood, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in \"ornamental cherry\" or \"cherry blossom\". "
+    },
+    {
+      "id": "n3etfwsd",
+      "name": "Pear",
+      "price": "2",
+      "description": "Pears are fruits produced and consumed around the world, growing on a tree and harvested in late Summer into October. The pear tree and shrub are a species of genus Pyrus /ˈpaɪrəs/, in the family Rosaceae, bearing the pomaceous fruit of the same name. Several species of pears are valued for their edible fruit and juices, while others are cultivated as trees."
+    },
+    {
+      "id": "34hwacsa",
+      "name": "Watermelon",
+      "price": "1.3",
+      "description": "Watermelon (Citrullus lanatus) is a flowering plant species of the Cucurbitaceae family. A scrambling and trailing vine-like plant, it was originally domesticated in Africa. It is a highly cultivated fruit worldwide, with more than 1,000 varieties."
+    },
+    {
+      "id": "asfd2w3t",
+      "name": "Grapes",
+      "price": "8",
+      "description": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis.\n\nGrapes can be eaten fresh as table grapes or they can be used for making wine, jam, grape juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil. Grapes are a non-climacteric type of fruit, generally occurring in clusters."
+    }
+  ]
+}

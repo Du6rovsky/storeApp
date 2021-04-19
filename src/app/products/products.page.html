@@ -1,0 +1,22 @@
+<ion-header translucent>
+  <ion-toolbar>
+    <ion-title>Products</ion-title>
+  </ion-toolbar>
+  <ion-toolbar>
+    <ion-searchbar
+      [debounce]="250"
+      inputmode="search"
+      [formControl]="searchControl"
+      [showClearButton]="'always'">
+    </ion-searchbar>
+  </ion-toolbar>
+</ion-header>
+<ion-content fullscreen>
+  <ion-list>
+    <ion-item button
+              *ngFor="let product of filteredProducts | async"
+              [routerLink]="[product.id]">
+      {{ product.name }}
+    </ion-item>
+  </ion-list>
+</ion-content>
